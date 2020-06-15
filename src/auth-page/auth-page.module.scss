@@ -62,9 +62,9 @@
 
 .linkWrap {
   color: palevioletred;
-
   font-size: 13px;
   height: 20px;
+  margin-bottom: 10px;
   position: relative;
   text-decoration: underline;
 }
@@ -92,8 +92,46 @@
   width: 130px;
 }
 
-.button {
+.submitButton {
   max-width: 150px;
+}
+
+.submitText {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  justify-content: center;
+}
+
+.modal {
+  align-items: center;
+  background: #f3f3f3;
+  border-radius: 8px;
+  box-shadow: 0 0 15px 10px white, 0 3px 4px 10px #988F99;
+  display: flex;
+  flex-flow: column;
+  height: 300px;
+  justify-content: space-between;
+  width: 500px;
+
+  p {
+    color: #747474;
+    font-family: "Oswald", sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    padding-top: 30px;
+    text-align: center;
+    text-shadow: 2px 5px 4px #b2b2b2;
+  }
+}
+
+.modalButton {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  max-width: 200px;
+  text-decoration: none;
+  width: 100%;
 }
 
 @keyframes showSlow {

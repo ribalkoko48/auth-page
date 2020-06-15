@@ -1,7 +1,9 @@
+$block-height: 60px;
+
 .wrapper {
   background: #e8e8e8;
   box-shadow: -3px -3px 4px 1px white inset, 0px 0px 6px 0px #575757 inset;
-  height: 45px;
+  height: $block-height;
   perspective: 1000px;
   perspective-origin: center -5em;
   width: 100%;
@@ -20,7 +22,9 @@
 .front,
 .back {
   background: #f3f3f3;
+  height: $block-height;
   opacity: 1;
+  overflow: hidden;
   position: absolute;
   transition: opacity 1500ms ease-in-out;
   width: 100%;
