@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://ribalkoko48.github.io/auth-page/static/css/main.64beb969.chunk.css",
+    "main.js": "https://ribalkoko48.github.io/auth-page/static/js/main.9493151f.chunk.js",
+    "main.js.map": "https://ribalkoko48.github.io/auth-page/static/js/main.9493151f.chunk.js.map",
+    "runtime-main.js": "https://ribalkoko48.github.io/auth-page/static/js/runtime-main.e933a84b.js",
+    "runtime-main.js.map": "https://ribalkoko48.github.io/auth-page/static/js/runtime-main.e933a84b.js.map",
+    "static/js/2.c3cfb0a6.chunk.js": "https://ribalkoko48.github.io/auth-page/static/js/2.c3cfb0a6.chunk.js",
+    "static/js/2.c3cfb0a6.chunk.js.map": "https://ribalkoko48.github.io/auth-page/static/js/2.c3cfb0a6.chunk.js.map",
+    "index.html": "https://ribalkoko48.github.io/auth-page/index.html",
+    "precache-manifest.a3e4826948cb6c67cb82ad11409a3c0b.js": "https://ribalkoko48.github.io/auth-page/precache-manifest.a3e4826948cb6c67cb82ad11409a3c0b.js",
+    "service-worker.js": "https://ribalkoko48.github.io/auth-page/service-worker.js",
+    "static/css/main.64beb969.chunk.css.map": "https://ribalkoko48.github.io/auth-page/static/css/main.64beb969.chunk.css.map",
+    "static/js/2.c3cfb0a6.chunk.js.LICENSE.txt": "https://ribalkoko48.github.io/auth-page/static/js/2.c3cfb0a6.chunk.js.LICENSE.txt",
+    "static/media/auth-page.module.scss": "https://ribalkoko48.github.io/auth-page/static/media/city.4f339e3d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e933a84b.js",
+    "static/js/2.c3cfb0a6.chunk.js",
+    "static/css/main.64beb969.chunk.css",
+    "static/js/main.9493151f.chunk.js"
+  ]
+}

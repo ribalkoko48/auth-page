@@ -2,5 +2,6 @@
 
 использует firebase
 
-для разработки
-### `yarn start`
+для разработки заходим в папку develop
+### `npm install`
+### `npm start`
